@@ -26,9 +26,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by FEBIELGIVA on 6/7/2016.
- */
+
 public class RegisterActivity extends Activity {
 
     private EditText nameTF, emailTF, passwordTF;
