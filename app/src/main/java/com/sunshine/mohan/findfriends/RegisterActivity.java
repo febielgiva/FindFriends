@@ -26,7 +26,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/* mohan */
 public class RegisterActivity extends Activity {
 
     private EditText nameTF, emailTF, passwordTF;
